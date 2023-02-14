@@ -6,4 +6,4 @@ Import the project using Maven and run it as a spring boot application.
 The application runs on 8080 default port, the application can be accissable on http://localhost:8080.
 Hit the API using curl or post man, post man sample is shown as below
 
-![alt text]([https://github.com/nunnavinay/hoodpresenter/blob/main/src/docs/ResponseScreenShots/Response.PNG])
+![alt text](https://github.com/nunnavinay/hoodpresenter/blob/main/src/docs/ResponseScreenShots/Response.PNG?raw=true)
