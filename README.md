@@ -12,9 +12,9 @@ Hit the API using curl or post man, post man sample is shown as below
 # Running through docker
 To build the Docker image, run the following command in the same directory as the Dockerfile:
 
-docker build -t hoodpresenter .
+**docker build -t hoodpresenter . **
 
 This will create a Docker image with the tag hoodpresenter. You can then start a container based on this image using the following command:
 
-docker run -p 8080:8080 hoodpresenter
+** docker run -p 8080:8080 hoodpresenter **
 
